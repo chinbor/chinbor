@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**chinbor/chinbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+I'm a FrontEnd developer from China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 💼 FrontEnd Engineer at [Zodance](https://www.zodance.com)
+- 📈 Built create-cp, git-pick and more
+- ❤️ I love writing Vue, and builting fun tools to increase productivity
+
+
+| <a href="https://github.com/chinbor"><img align="center" src="https://chinbor.vercel.app/api?username=chinbor&show_icons=true&include_all_commits=true&theme=Gradient&hide_border=false" alt="Chinbor's github stats" /></a> | <a href="https://github.com/chinbor"><img align="center" src="https://chinbor.vercel.app/api/top-langs/?username=chinbor&layout=compact&theme=Gradient&hide_border=false&layout=compact" /></a> |
+| ------------- | ------------- |
