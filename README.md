@@ -4,12 +4,25 @@
 
 I'm a FrontEnd developer from China
 
-**About me**
+---
+
+<details open>
+ <summary> <b>About me</b> </summary>
+<br>
 
 - 💼 FrontEnd Engineer at [Zodance](https://www.zodance.com)
 - 📈 Built create-cp, git-pick and more
 - ❤️ I love writing Vue, and builting fun tools to increase productivity
 
+</details>
 
-| <img align="center" src="https://chinbor.vercel.app/api?username=chinbor&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="Chinbor's github stats" /> | <img align="center" src="https://chinbor.vercel.app/api/top-langs/?username=chinbor&layout=compact&theme=tokyonight&hide_border=false&layout=compact" /> |
-| ------------- | ------------- |
+<details open>
+ <summary> <b>My Github Stats</b> </summary>
+<br>
+
+<p align="center">
+  <img src="https://chinbor.vercel.app/api?username=chinbor&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Chinbor's github stats" /> 
+  <img src="https://chinbor.vercel.app/api/top-langs/?username=chinbor&theme=calm&hide_border=true" alt="Chinbor's github stats"/>
+</p>
+
+</details>
