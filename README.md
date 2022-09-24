@@ -19,10 +19,11 @@ I'm a FrontEnd developer from China
 <details open>
  <summary> <b>My Github Stats</b> </summary>
 <br>
-
-<p align="center">
-  <img src="https://chinbor.vercel.app/api?username=chinbor&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Chinbor's github stats" /> 
-  <img src="https://chinbor.vercel.app/api/top-langs/?username=chinbor&theme=calm&hide_border=true" alt="Chinbor's github stats"/>
-</p>
+  <div>
+    <img src="https://chinbor.vercel.app/api?username=chinbor&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Chinbor's github stats" /> 
+    <img src="https://chinbor.vercel.app/api/top-langs/?username=chinbor&theme=calm&hide_border=true" alt="Chinbor's github stats" />
+  </div>
+  
+  <img src="https://raw.githubusercontent.com/chinbor/chinbor/output/github-contribution-grid-snake.svg" alt="Chinbor's github stats" /> 
 
 </details>
