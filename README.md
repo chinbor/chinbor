@@ -6,7 +6,7 @@ I'm a FrontEnd developer from China
 
 ---
 
-<details open>
+<details close>
  <summary> <b>About me</b> </summary>
 <br>
 
@@ -16,7 +16,7 @@ I'm a FrontEnd developer from China
 
 </details>
 
-<details open>
+<details close>
  <summary> <b>My Github Stats</b> </summary>
 <br>
   <div>
