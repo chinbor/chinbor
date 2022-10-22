@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Chinbor. I do open source!" src="./gh-readme-header.png" /></p>
+<p align="center"><img width="80%" alt="Hello, I'm Chinbor. I do open source!" src="./open-source.png" /></p>
 
 </br>
 
