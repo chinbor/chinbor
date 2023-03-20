@@ -10,7 +10,7 @@ I'm a FrontEnd developer from China
  <summary> <b>About me</b> </summary>
 <br>
 
-- 💼 FrontEnd Engineer at [Zodance](https://www.zodance.com)
+- 💼 FrontEnd Engineer
 - 📈 Built create-cp, git-pick and more
 - ❤️ I love writing Vue, and builting fun tools to increase productivity
 
